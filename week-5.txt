@@ -1,0 +1,11 @@
+[
+    {
+      "qualification": "B. Tech, Malla Reddy University, Computer Science And Engineering, CGPA - 9.13"
+    },
+    {
+      "qualification": "Intermediate, Sri Chaitanya Junior College, MPC, Percentage - 92.5"
+    },
+    {
+      "qualification": "Secondary School, Kakatiya Techno High School, GPA - 10"
+    }
+  ]
